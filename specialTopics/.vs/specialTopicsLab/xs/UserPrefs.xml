@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C90E7849-7BF9-2B85-FAA5-FE91134B9C14}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LightningScript.cs">
+    <Files>
+      <File FileName="Assets/Prefabs/MoveCar.cs" Line="31" Column="26" />
+      <File FileName="Assets/LightningScript.cs" Line="25" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
